@@ -10,11 +10,11 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 - 🔭 I’m currently working on **Social Media Application**
 
-- 🌱 I’m currently learning **React Js, Node Js**
+- 🌱 I’m currently learning **React Js, Node Js, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-upload.netlify.app/](https://portfolio-upload.netlify.app/)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **jyotshnavellampalli@gmail.com**
 
