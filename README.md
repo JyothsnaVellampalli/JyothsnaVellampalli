@@ -1,5 +1,5 @@
 
-[![MasterHead](https://149351115.v2.pressablecdn.com/wp-content/uploads/2017/02/TheDeveloperCoverLetter.jpg)]()
+[![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg)]()
 <h1 align="center">Hi 👋, I'm Jyothsna Vellampalli</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" 
