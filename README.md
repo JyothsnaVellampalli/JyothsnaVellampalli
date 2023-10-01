@@ -54,7 +54,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
     <img src="https://res.cloudinary.com/hilnmyskv/image/upload/q_70/v1687870574/Algolia_com_Website_assets/images/shared/algolia_logo/algolia_badge_rounded_square_blue_background.svg" alt="algolia" width="40"     
       height="40"/>
   </a>
-   <a href="https://www.klavio.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.klaviyo.com/" target="_blank" rel="noreferrer">
     <img src="https://styles.redditmedia.com/t5_nz03k/styles/communityIcon_pgto1w4w64w81.png" alt="klavio" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
