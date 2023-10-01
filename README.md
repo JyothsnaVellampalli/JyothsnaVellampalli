@@ -10,7 +10,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 - 🔭 I’m currently working on **Social Media Application**
 
-- 🌱 I’m currently learning **React Js, Node Js, MongoDB**
+- 🌱 I’m currently learning **React Js, Typescript, Next Js, AWS Lambda, AWS DynamoDB, AWS StateMachines, AWS Amplify, Postgress, Node JS **
 
 - 👨‍💻 All of my projects are available at [https://portfolio-upload.netlify.app/](https://portfolio-upload.netlify.app/)
 
