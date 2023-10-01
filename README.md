@@ -12,7 +12,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 - 🌱 "I am presently engaged in projects involving **React Js, Typescript, Next Js, AWS Lambda, AWS DynamoDB, AWS StateMachines, AWS Amplify, Postgres SQL, Django**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-upload.netlify.app/](https://portfolio-upload.netlify.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-jyothsnavellampalli.netlify.app/
 
 - 📫 How to reach me **jyotshnavellampalli@gmail.com**
 
