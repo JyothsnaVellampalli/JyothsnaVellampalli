@@ -8,9 +8,9 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothsnavellampalli&label=Profile%20views&color=0e75b6&style=flat" alt="jyothsnavellampalli" /> </p>
 
-- 🔭 I’m currently working on **Catalougue Editing Web Application**
+- 🔭 I’m currently working on **Api handler package in rust**
 
-- 🌱 "I am presently engaged in projects involving **React Js, Typescript, Next Js, AWS Lambda, AWS DynamoDB, AWS StateMachines, AWS Amplify, MongoDB, Node JS**
+- 🌱 "I am presently engaged in projects involving **React Js, Typescript, Rust, Python**
 
 - 👨‍💻 All of my projects are available at https://portfolio-jyothsnavellampalli.netlify.app/
 
@@ -20,7 +20,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jyothsna vellampalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothsna vellampalli" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/jyothsna-vellampalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothsna vellampalli" height="30" width="40" /></a>
 <a href="https://instagram.com/jyothsna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyothsna" height="30" width="40" /></a>
 </p>
 
