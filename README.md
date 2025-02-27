@@ -26,6 +26,9 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/376347/rust.svg" alt="Rust" width="40" height="40" />
+  </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Aws" width="40" height="40" />
   </a>
