@@ -8,9 +8,9 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothsnavellampalli&label=Profile%20views&color=0e75b6&style=flat" alt="jyothsnavellampalli" /> </p>
 
-- 🔭 I’m currently working on **Api handler package in rust**
+- 🔭 I’m currently exporing **AI Agents development**
 
-- 🌱 "I am presently engaged in projects involving **React Js, Typescript, Rust, Python**
+- 🌱 "I am presently engaged in projects involving **React Js, Typescript, Rust, Python, Node js**
 
 - 👨‍💻 All of my projects are available at https://portfolio-jyothsnavellampalli.netlify.app/
 
