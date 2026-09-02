@@ -1,7 +1,7 @@
 
 [![MasterHead](https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg)]()
 <h1 align="center">Hi 👋, I'm Jyothsna Vellampalli</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">Forward deployed engineer (AI * Full Stack)</h3>
 <img align="right" alt="Coding" width="400" 
 src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/>
 
@@ -16,11 +16,12 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 - 📫 How to reach me **jyotshnavellampalli@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WUKS3t0YNX19Rih5lwxoX2fkTueGpsMW/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k8Z_GZkcL1lKSFcvxkfcpWZe6zg41eKc/view?usp=drive_link) [https://jyothsna-portfolio-sigma.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/jyothsna-vellampalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothsna vellampalli" height="30" width="40" /></a>
+<a href="https://jyothsna-portfolio-sigma.vercel.app/" target="blank">Portfolio</a>
 <a href="https://instagram.com/jyothsna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyothsna" height="30" width="40" /></a>
 </p>
 
