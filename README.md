@@ -10,7 +10,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 - 🔭 I’m currently working on **Agentic AI platform**
 
-- 🌱 "I am presently engaged in projects involving **React Js, Typescript, Rust, Python, Node js**
+- 🌱 "I am presently engaged in projects involving **AWS Bedrock Agentcore, Python, React Js, Typescript, Node js**
 
 - 👨‍💻 All of my projects are available at <a href="https://jyothsna-portfolio-sigma.vercel.app/">Portfolio</a>
 
