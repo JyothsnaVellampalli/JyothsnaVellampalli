@@ -8,20 +8,19 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothsnavellampalli&label=Profile%20views&color=0e75b6&style=flat" alt="jyothsnavellampalli" /> </p>
 
-- 🔭 I’m currently exporing **AI Agents development**
+- 🔭 I’m currently working on **Agentic AI platform**
 
 - 🌱 "I am presently engaged in projects involving **React Js, Typescript, Rust, Python, Node js**
 
-- 👨‍💻 All of my projects are available at https://portfolio-jyothsnavellampalli.netlify.app/
+- 👨‍💻 All of my projects are available at <a href="https://jyothsna-portfolio-sigma.vercel.app/">Portfolio</a>
 
 - 📫 How to reach me **jyotshnavellampalli@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k8Z_GZkcL1lKSFcvxkfcpWZe6zg41eKc/view?usp=drive_link) [https://jyothsna-portfolio-sigma.vercel.app/)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1k8Z_GZkcL1lKSFcvxkfcpWZe6zg41eKc/view?usp=drive_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/jyothsna-vellampalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothsna vellampalli" height="30" width="40" /></a>
-<a href="https://jyothsna-portfolio-sigma.vercel.app/" target="blank">Portfolio</a>
 <a href="https://instagram.com/jyothsna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyothsna" height="30" width="40" /></a>
 </p>
 
@@ -81,6 +80,6 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothsnavellampalli&show_icons=true&locale=en&layout=compact" alt="jyothsnavellampalli" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyothsnavellampalli&show_icons=true&locale=en&layout=compact" alt="jyothsnavellampalli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothsnavellampalli&show_icons=true&locale=en" alt="jyothsnavellampalli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyothsnavellampalli&show_icons=true&locale=en" alt="jyothsnavellampalli" /></p> -->
